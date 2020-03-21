@@ -17,5 +17,5 @@ If a cell is dead and has exactly three neighbors that are alive, it turns alive
    b. Update the display of grid values.<br />
    
 resources: 
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life <br />
 https://nicholasrui.com/2017/12/18/convolutions-and-the-game-of-life/
